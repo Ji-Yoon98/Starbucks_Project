@@ -1,6 +1,7 @@
 # ☕ Starbucks_Project
 
 ### HTML, CSS, JavaScript로 만드는 스타벅스 랜딩 페이지
+👉🏻 **[사이트 바로가기](https://graceful-parfait-b9d21d.netlify.app/)**
 
 # ☕ 사용기술 & 개발환경
 
